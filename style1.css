@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+.tlo{
+    background-image: linear-gradient(rgb(119, 0, 255),rgb(39, 3, 99));
+    width: 100%;
+}
+
+
+.konapisy{
+    color:white ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.banner{
+    height: 350px;
+    border-radius: 70px;
+}
+
+.onas{
+    color: rgba(163, 16, 131, 0.904);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 650px;
+}
+
+.opisonas{
+    color: rgb(184, 165, 192);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 75%;
+    margin-top: -50px;
+}
+
+.caleonas{
+    margin-top: 950px;
+}
+
+.instalogo{
+    height: 50px;
+    float: right;
+    margin-top: -40px;
+}
+
+.facelogo{
+    height: 50px;
+    float: right;
+    margin-top: -40px;
+}
+
+
+
+
